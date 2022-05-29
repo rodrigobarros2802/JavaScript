@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu País</title>
+</head>
+<body>
+    <H1>Sistema de Nacionalidade</H1>
+    <strong>Em qual Páis você mora?:</strong> <input type="text" name="txtp" id="txtp">
+    <input type="button" value="Verificar Nacionalidade" onclick="calcular()">
+    <div id="res">
+
+    </div>
+    <script>
+        function calcular() {
+            var txtp = window.document.querySelector('input#txtp')
+            var res = window.document.querySelector('div#res')
+            var nac = String (txtp.value)
+            res.innerHTML = `<p> Seu País atual é <strong>${nac}</strong></p>`
+            if (nac == 'Brasil') {
+                res.innerHTML += `<p>Você é <strong>BRASILEIRO!</strong></P>`
+            } else {
+                res.innerHTML += `<p>Você é <strong>ESTRANGEIRO!</strong></p>`
+            }
+            res.innerHTML += `<strong><p>Nunca seja imigrante!</p></strong>`
+        }
+    </script>
+    
+</body>
+</html>

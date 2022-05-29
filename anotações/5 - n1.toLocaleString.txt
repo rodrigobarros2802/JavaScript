@@ -1,0 +1,29 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Experimente a nova plataforma cruzada PowerShell https://aka.ms/pscore6
+
+PS F:\Documentos\Rodrigo Documentos\Cursos\Developer\Curso JS> node
+Welcome to Node.js v16.13.0.
+Type ".help" for more information.
+> var n1 = 1545.5
+undefined
+> n1
+1545.5
+> n1.tofixed(2)
+Uncaught TypeError: n1.tofixed is not a function
+> n1.toFixed(2)
+'1545.50'
+> n1.toFixed(2).replace('.', ',')
+'1545,50'
+> n1
+1545.5
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+'R$ 1.545,50'
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: USD'})                                                          
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: 'USD'})
+'US$ 1.545,50'
+> n1.toLocaleString('pt-BR', {style: 'currency', currency: 'EUR'})
+'€ 1.545,50'
+>
+

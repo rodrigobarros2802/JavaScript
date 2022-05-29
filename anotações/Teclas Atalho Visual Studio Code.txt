@@ -1,0 +1,3 @@
+Ctrl + : = Colocar como comentário
+Ctrl + Shift + P = Abrir extensão no chrome
+Ctrl + Enter = Pular para próxima linha

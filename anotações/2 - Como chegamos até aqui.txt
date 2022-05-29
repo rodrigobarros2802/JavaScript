@@ -1,0 +1,19 @@
+Você sabe qual foi a empresa a criar o JavaScript? 
+
+JavaScript lançado em 1995 pela empresa Net Escape 
+HTML Criado em 1993 por TBL em Genebra
+World Wide Web (WWW)
+
+Sabe qual é a diferença entre as linguagens Java e JavaScript? 
+
+JavaScript foi criada por uma outra empresa que utilizou o nome Java e acrescentou
+o sobrenome Script
+
+Sabe qual é a relação que existe entre as linguagens JavaScript e ECMAScript? 
+
+ECMAScript (PADRONIZAÇÃO DO JavaScript) é a mesma linguagem do JavaScript 
+porém padronizada
+
+Sabia que, por exemplo, o programa usado para acessar WhatsApp no computador 
+é feito em JavaScript?
+

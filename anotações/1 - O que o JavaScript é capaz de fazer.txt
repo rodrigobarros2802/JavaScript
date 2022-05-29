@@ -1,0 +1,24 @@
+Curso Básico de JavaScript
+
+Módulo A - Conhecendo o JavaScript
+
+O que o JavaScript é capaz de fazer?
+
+Tecnologia para clientes (Client Side)
+
+HTML - Responsável pelos conteúdos (Textos e 
+Marcações)
+CSS - Responsável pelos designers (estilo e 
+aparências)
+JS - Responsável pelas integrações e
+interações (programador)
+
+Client X Server
+- Client (PC, TELEFONE)
+- Server (MÁQUINAS DE ALTAS PERFORMANCE) 
+
+Quem usa JavaScript?
+Google, YouTube, LinkedIn, Netflix, Facebook, Amazon,
+Governo do Brasil, Governo dos Estados Unidos.
+
+- JavaScript Versus ECMAScript

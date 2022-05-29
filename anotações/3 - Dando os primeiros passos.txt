@@ -1,0 +1,26 @@
+Quais são os melhores livros de JavaScript em Português? 
+
+-JavaScript - O Guia Definitivo 
+-JavaScript - Guia do Programador
+
+Onde ter acesso à documentação oficial do JavaScript em Português e Inglês? 
+
+-Guia de Referência Mozilla - https://developer.mozilla.org/pt-BR/docs/Web/Guide
+-Guia de Referência ECMA - https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+Quais são os requisitos de software para aprender a programar em JavaScript? 
+
+-Google Chrome
+-Visual Estudio Codedd
+-Node JS
+
+Qual é o melhor editor para códigos JavaScript? 
+
+
+Para aprender JavaScript, é realmente necessário saber muito Inglês?
+
+Não
+
+Você está precisando de dicas para estudar e aprender de verdade?
+
+Sim
